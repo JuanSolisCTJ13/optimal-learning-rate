@@ -4,7 +4,7 @@ This repository contains an example code for finding the optimal learning rate f
 
 ## Usage
 
-1. Clone the repository: git clone https://github.com/username/optimal-learning-rate.git
+1. Clone the repository: git clone https://github.com/JuanSolisCTJ13/optimal-learning-rate.git
 2. Install the required libraries: pip install -r requirements.txt
 3. Run the code: python optimal_learning_rate.py
 
