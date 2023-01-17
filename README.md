@@ -4,9 +4,9 @@ This repository contains an example code for finding the optimal learning rate f
 
 ## Usage
 
-Clone the repository: git clone https://github.com/username/optimal-learning-rate.git
-Install the required libraries: pip install -r requirements.txt
-Run the code: python optimal_learning_rate.py
+1. Clone the repository: git clone https://github.com/username/optimal-learning-rate.git
+2. Install the required libraries: pip install -r requirements.txt
+3. Run the code: python optimal_learning_rate.py
 
 ## Note
 The example uses a synthetic dataset, you can replace it with your own dataset and adjust the parameters accordingly, also feel free to experiment with different range of learning rates, and different optimization algorithms.
