@@ -11,5 +11,5 @@ This repository contains an example code for finding the optimal learning rate f
 ## Note
 The example uses a synthetic dataset, you can replace it with your own dataset and adjust the parameters accordingly, also feel free to experiment with different range of learning rates, and different optimization algorithms.
 
-License
+## License
 This code is provided under the MIT License. Feel free to use and modify the code as you see fit.
